@@ -1,4 +1,8 @@
-## Hi there 👋
+Second-year Applied Automation and Computer Science student at Politehnica Bucharest, focused on machine learning applications.
+
+I built [NewsTicker](https://github.com/adrianadanciu/NewsTicker), a financial news sentiment analysis tool using FinBERT, and MyWardrobe, an AI-powered wardrobe app.
+
+[LinkedIn](https://www.linkedin.com/in/adriana-danciu-1bbb97403/)
 
 <!--
 **adrianadanciu/adrianadanciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
